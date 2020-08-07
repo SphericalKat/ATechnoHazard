@@ -22,7 +22,7 @@ I'm a full-stack developer.
   - Rocket (Rust)
   
   ### Some other fun skills of mine:
-  - Deep learning (I'm actually a TensorFlow certified developer)
+  - I'm a TensorFlow certified developer
   - Cloud native DevOps with Kubernetes or Docker Swarm
   - Linux System Administration
   - Shell Scripting
