@@ -15,7 +15,7 @@ I'm a full-stack developer.
  ### I'm comfortable building applications with:
   - Native Android SDK (Kotlin/Java)
   - Flutter
-  - React & Node (JavaScript/TypeScript)
+  - React, Vue & Node (JavaScript/TypeScript)
   - Go
   - Flask & FastAPI (Python)
   - Ktor (Kotlin)
